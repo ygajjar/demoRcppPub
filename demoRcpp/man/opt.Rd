@@ -2,7 +2,7 @@
 \alias{opt}
 \docType{data}
 \title{
-%%   ~~ data name/kind ... ~~
+demoRcpp
 }
 \description{
 %%  ~~ A concise (1-5 lines) description of the dataset. ~~
