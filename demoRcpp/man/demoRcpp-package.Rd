@@ -14,26 +14,25 @@ The DESCRIPTION file:
 \packageIndices{demoRcpp}
 ~~ An overview of how to use the package, including the most ~~
 ~~ important functions ~~
-
 }
 \author{
+Jaydeep
 \packageAuthor{demoRcpp}
-
 Maintainer: \packageMaintainer{demoRcpp}
 }
 \references{
-~~ Literature or other references for background information ~~
 none
+~~ Literature or other references for background information ~~
 }
 ~~ Optionally other standard keywords, one per line, from file ~~
 ~~ KEYWORDS in the R documentation directory ~~
 \keyword{ package }
 \seealso{
+none
 ~~ Optional links to other man pages, e.g. ~~
 ~~ \code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
-none
 }
 \examples{
-~~ simple examples of the most important functions ~~
 getClosingPrice()
+~~ simple examples of the most important functions ~~
 }
